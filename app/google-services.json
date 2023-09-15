@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066524033138",
+    "project_id": "fir-otp-using-java",
+    "storage_bucket": "fir-otp-using-java.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066524033138:android:4a6bae86c0193bfa5f82eb",
+        "android_client_info": {
+          "package_name": "com.example.firebaseotpusingjava"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoTcRnPrIEZDFHq39cElGPJwwvwzAeM5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

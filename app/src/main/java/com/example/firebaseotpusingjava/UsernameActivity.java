@@ -50,7 +50,7 @@ public class UsernameActivity extends AppCompatActivity {
         }
 
         setInProgress(true);
-        
+
         if(userModel!=null){
             userModel.setUsername(username);
         }else{

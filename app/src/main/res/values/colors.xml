@@ -5,4 +5,9 @@
     <color name="purple">#7F00FF</color>
     <color name="pink">#E100FF</color>
     <color name="grey">#808080</color>
+    <color name="off_white">#FAFAFA</color>
+    <color name="chat_color_sender">#064AF6</color>
+    <color name="chat_color_receiver">#7CB342</color>
+
+
 </resources>
